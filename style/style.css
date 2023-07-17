@@ -124,14 +124,15 @@ font-weight: 700px;
     border-radius: 8px;
     background: #ff900E;
     color: #FFF;
-    width: 342px;
+    width: 222px;
+    height: 100px;
     padding: 40px;
     text-align: center;
     position: relative;
     bottom: 100px;
 }
 .ten-years-badge h2 {
-font-size: 4rem;
+font-size: 3rem;
 margin: 0;
 }
 .ten-years-badge p{
@@ -177,7 +178,9 @@ color: #131313;
     display: flex;
 }
 
-
+* main{
+    width: 75%;
+}
 
 
 
